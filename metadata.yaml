@@ -1,0 +1,38 @@
+_repo: '--------_36850'
+_version: 0.1.0
+alternative_title: Die Leiden des jungen Werther. Greek
+contributor:
+  translator:
+    agent_name: Aretas, Ioannis
+    alias: Αρετάς,  Ιωάννης
+    gutenberg_agent_id: '38508'
+    url: http://www.gutenberg.org/2009/agents/38508
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '2011-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36850'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Social life and customs -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Unrequited love -- Fiction'
+title: Βέρθερος
+url: http://www.gutenberg.org/ebooks/36850
